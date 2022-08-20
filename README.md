@@ -1,5 +1,5 @@
 - 🔭 Atualmente trabalho com back-end
-- 🌱 Estou a aprender Python 
+- 🌱 Estou a aprender Ataques de negação de serviço (DOS & DDOS)
 - 📫 Como entrar em contacto comigo: filipe.claudio2001@gmail.com
 
 <div>

@@ -1,15 +1,18 @@
-<h1 align="center">👋 Olá, eu sou um Junior Developer</h1>
+<!-- Typing SVG Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=450&lines=Junior+Developer;C%2B%2B+%7C+C%23+%7C+Java;Coding+my+way+up+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=C%2B%2B%20%7C%20C%23%20%7C%20Java%20Developer;Always%20learning%20%F0%9F%93%9A;Debugging%20my%20way%20through%20life&center=true&width=500&height=30&color=58A6FF&pause=1000" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif" />
 </p>
 
 ---
 
-### 🧠 Sobre mim
+### 🧠 Sobre Mim
 
 ```bash
-> Junior Dev.exe initializing...
-> Skills: [C++] [C#] [Java]
-> Debug mode: ON
-> Compiling dreams into reality 🚀
+> Olá! Eu sou um Junior Developer 🚀
+> Escrevo código em: C++, C#, Java
+> Ainda não dominado pelo café... mas quase ☕
+> Atualmente aprendendo: Estruturas de Dados & OOP

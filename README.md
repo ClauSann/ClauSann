@@ -1,39 +1,27 @@
+# 👨‍💻 Junior Developer | C++ · C# · Java
+
+Sou um desenvolvedor em início de carreira, com foco em escrever código limpo, eficiente e escalável.  
+Busco constantemente evoluir tecnicamente, entender o "porquê" por trás das soluções e aplicar boas práticas de engenharia de software.
 
 ---
 
-## 💻 Stack Principal
+## 💡 Sobre Mim
 
-- 🧠 **C++** – base sólida em lógica e estrutura
-- ⚙️ **C#** – aplicações desktop e backend
-- ☕ **Java** – POO, aplicações robustas
-
----
-
-## 📚 Atualmente estudando
-
-- 🔧 Estruturas de Dados e Algoritmos
-- 🧼 Boas práticas de código (Clean Code, SOLID)
-- 🧪 Testes e manutenção
-- 🧩 Git & GitHub para colaboração real
+- 💻 Linguagens principais: **C++**, **C#**, **Java**
+- 🧠 Interesse em: Algoritmos, Estrutura de Dados, Design Orientado a Objetos
+- 🔄 Mentalidade de melhoria contínua
+- 🧰 Familiaridade com Git, VS Code, Visual Studio, IntelliJ
 
 ---
 
-## 🛣️ Roadmap Pessoal
+## 📚 Atualmente Estudando
 
-- [x] Aprender fundamentos de programação
-- [x] Criar projetos simples em C++, C#, Java
-- [ ] Participar de projetos open-source
-- [ ] Aprender frameworks (ex: .NET, Spring)
-- [ ] Colaborar em equipe real (open-source / freelance)
+- Estruturas de Dados e Algoritmos
+- Padrões de Projeto (Design Patterns)
+- Princípios SOLID e Clean Code
+- Boas práticas com Git e controle de versão
+- Contribuições para projetos open-source
 
 ---
 
-## 📈 Um pouco sobre mim
-
-```bash
-> Junior Dev.exe iniciado...
-> Debug mode: Ativado
-> Café detectado... produtividade +50%
-> Compilando conhecimento 📦
-> Atualização constante: true
-
+## 🛠️ Stack Técnica

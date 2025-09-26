@@ -10,7 +10,7 @@ Busco constantemente evoluir tecnicamente, entender o "porquê" por trás das so
 - 💻 Linguagens principais: **C++**, **C#**, **Java**
 - 🧠 Interesse em: Algoritmos, Estrutura de Dados, Design Orientado a Objetos
 - 🔄 Mentalidade de melhoria contínua
-- 🧰 Familiaridade com Git, VS Code, Visual Studio, IntelliJ
+- 🧰 Familiaridade com Git, VS Code, Visual Studio, Unity
 
 ---
 
@@ -21,7 +21,9 @@ Busco constantemente evoluir tecnicamente, entender o "porquê" por trás das so
 - Princípios SOLID e Clean Code
 - Boas práticas com Git e controle de versão
 - Contribuições para projetos open-source
+- Princípios básicos do Unity
 
 ---
 
 ## 🛠️ Stack Técnica
+- Em desenvoilvimento. . .
